@@ -3,6 +3,7 @@
 //     <ul><li>1.You Rock</li><li>2.You Roll</li></ul>,
 //     document.getElementById('root'))
 
+
 // imperative programming example (React is declarative)
 // const h1 = document.createElement("h1")
 // h1.textContent = "This is an imperative way to program."
@@ -22,17 +23,17 @@
 
 
 //JSX is basically HTML in React code 
-const navBar = (
-        <nav>
-            <h1>Sean's Website</h1>
-            <ul>
-                <li>Pricing</li>
-                <li>About</li>
-                <li>Contact</li>
-            </ul>
-        </nav>
-)
-ReactDOM.render(
-    navBar,
-    document.getElementById('root')
-)
+// const navBar = (
+//         <nav>
+//             <h1>Sean's Website</h1>
+//             <ul>
+//                 <li>Pricing</li>
+//                 <li>About</li>
+//                 <li>Contact</li>
+//             </ul>
+//         </nav>
+// )
+// ReactDOM.render(
+//     navBar,
+//     document.getElementById('root')
+// )
