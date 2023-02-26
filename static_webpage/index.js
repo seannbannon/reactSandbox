@@ -37,3 +37,17 @@
 //     navBar,
 //     document.getElementById('root')
 // )
+
+
+const page = (
+    <div>
+        <h1>Reasons I love React</h1>
+        <h3>cuz:</h3>
+        <ol>
+            <li>It's freaking cool</li>
+            <li>It's easy</li>
+        </ol>
+    </div>
+)
+
+document.getElementById('root').append(JSON.stringify(page))
