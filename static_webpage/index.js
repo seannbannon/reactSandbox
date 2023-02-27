@@ -61,7 +61,7 @@
 
 const page = (
     <div>
-        <img src="./reactlogo.png" />
+        <img src="./reactlogo.png" width="40px" height="40px" />
     </div>
 )
 
