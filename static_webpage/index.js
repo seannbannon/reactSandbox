@@ -60,7 +60,9 @@
 // import ReactDOM from 'react-dom'
 
 const page = (
-    <h1>Test</h1>
+    <div>
+        <img src="./reactlogo.png" />
+    </div>
 )
 
 ReactDOM.render(page, document.getElementById('root'))
