@@ -61,16 +61,24 @@
 
 const page = (
     <div>
-        <img src="./reactlogo.png" width="40px" />
+        <header>
+            <nav>
+                <img src="./reactlogo.png" width="40px" />
+            </nav>
+        </header>
         <h1>Fun Facts About React</h1>
-        <ul>
+        <ol>
             <li>Was first released in 2013</li>
             <li>Was originally created by Jordan Walke</li>
             <li>Has well over 100K stars on Github</li>
             <li>Is maintained by Facebook</li>
             <li>Powers thousands of enterprise apps, including mobile apps</li>
-        </ul>
+        </ol>
+        <footer>
+            @2023 Bannon development. All rights reserved.
+        </footer>
     </div>
 )
+console.log(page)
 
 ReactDOM.render(page, document.getElementById('root'))
