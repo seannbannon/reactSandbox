@@ -9,6 +9,7 @@
     display: flex;
 }
 
+/* selects the list items in the nav */
 .nav-items > li{
     padding: 10px;
 }
