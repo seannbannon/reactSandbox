@@ -62,7 +62,7 @@
 const page = (
     <div>
         <header>
-            <nav>
+            <nav className="nav">
                 <img src="./reactlogo.png" width="40px" />
                 <ul className = "nav-items">
                     <li>Pricing</li>
