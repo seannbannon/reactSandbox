@@ -64,6 +64,11 @@ const page = (
         <header>
             <nav>
                 <img src="./reactlogo.png" width="40px" />
+                <ul>
+                    <li>Pricing</li>
+                    <li>About</li>
+                    <li>Contact</li>
+                </ul>
             </nav>
         </header>
         <h1>Fun Facts About React</h1>
