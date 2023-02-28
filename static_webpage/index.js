@@ -75,7 +75,7 @@ const page = (
             <li>Powers thousands of enterprise apps, including mobile apps</li>
         </ol>
         <footer>
-            @2023 Bannon development. All rights reserved.
+            <small>@2023 Bannon development. All rights reserved.</small>
         </footer>
     </div>
 )
