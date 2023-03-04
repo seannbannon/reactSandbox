@@ -1,6 +1,10 @@
 body{
     color: white;
     background-color: #222222;
+    background-image: url(../public/reactlogo.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 85%;
 }
 
 .nav{
