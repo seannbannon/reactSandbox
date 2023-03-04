@@ -1,8 +1,11 @@
 import React from "react";
 import ReactDOM  from "react-dom";
+import Footer from "./components/Footer";
 
-const test = (
-    <h1>YAY!</h1>
-)
+function App() {
+    return(
+    <Footer />
+    )
+}
 
-ReactDOM.render(test, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById('root'))
