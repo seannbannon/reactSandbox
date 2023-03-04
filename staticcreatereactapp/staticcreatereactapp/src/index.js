@@ -1,10 +1,14 @@
 import React from "react";
 import ReactDOM  from "react-dom";
 import Footer from "./components/Footer";
+import Header from "./components/Header";
 
 function App() {
     return(
-    <Footer />
+    <div>
+        <Header />
+        <Footer />
+    </div>
     )
 }
 
