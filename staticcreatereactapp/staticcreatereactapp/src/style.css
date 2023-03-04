@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: #222222;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+}
+
+/* selects the list items in the nav */
+.nav-items > li{
+    padding: 10px;
+}
+
+.navimg {
+    width: 40px;
+}
+
+.footer{
+    margin-top: auto;
+    
+}
