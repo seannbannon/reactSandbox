@@ -4,7 +4,7 @@ export default function Footer(){
     <div>
         return(
             <div className="icons">
-            <h1>yo</h1>
+                <h1>HELLOO!!</h1>
             </div>
         )
     </div>

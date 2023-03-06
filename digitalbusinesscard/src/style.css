@@ -1,12 +1,5 @@
 body{
-    background-color: aqua;
-}
-
-.mypic {
-    width: 300px;
-    /* rounds corners */
-    border-radius: 10px;
-    margin: 25px;
+    background-color: #000555;
 }
 
 .card{
@@ -24,3 +17,14 @@ body{
     color: yellow;
 }
 
+.header{
+    color: white;
+}
+
+
+.mypic {
+    width: 300px;
+    /* rounds corners */
+    border-radius: 10px;
+    margin: 25px;
+}
