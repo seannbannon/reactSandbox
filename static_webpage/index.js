@@ -79,7 +79,7 @@ const page = (
             <li>Is maintained by Facebook</li>
             <li>Powers thousands of enterprise apps, including mobile apps</li>
         </ol>
-        <footer>
+        <footer className="footer">
             <small>@2023 Bannon development. All rights reserved.</small>
         </footer>
     </div>
