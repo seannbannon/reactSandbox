@@ -19,12 +19,25 @@ body{
 
 .header{
     color: white;
+    font-family:'Apple Chancery';
+    /* h1 and h4 moves text closer together */
+    line-height:5px;
+}
+
+.header h4{
+    color: #555;
 }
 
 
 .mypic {
     width: 300px;
+    height: auto;
     /* rounds corners */
     border-radius: 10px;
     margin: 25px;
+}
+
+.bodytext{
+    font-size: small;
+    color: white;
 }
