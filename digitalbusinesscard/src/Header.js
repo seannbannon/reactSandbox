@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export default function Header(){
     return(
         <div className="header">
@@ -8,7 +9,7 @@ export default function Header(){
             <h4>Full Stack Developer</h4>
             {/* MAKE THE BUTTON TSAKE U TO LINKEDIN */}
             <a href = 'https://www.linkedin.com/in/seanbannon1/'>
-                <button type="submit" className="buttons">HELLO</button>
+                <button type="submit" className="buttons"><i class="fa fa-linkedin-square"></i>LinkedIn</button>
             </a>
         </div>
     )
