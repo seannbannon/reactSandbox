@@ -7,7 +7,9 @@ export default function Header(){
             <h1>Sean Bannon</h1>
             <h4>Full Stack Developer</h4>
             {/* MAKE THE BUTTON TSAKE U TO LINKEDIN */}
-            <button type="submit" className="buttons">HELLO</button>
+            <a href = 'https://www.linkedin.com/in/seanbannon1/'>
+                <button type="submit" className="buttons">HELLO</button>
+            </a>
         </div>
     )
 }

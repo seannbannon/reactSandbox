@@ -21,7 +21,7 @@ body{
     color: white;
     font-family:'Apple Chancery';
     /* h1 and h4 moves text closer together */
-    line-height:5px;
+    line-height:15px;
 }
 
 .header h4{
