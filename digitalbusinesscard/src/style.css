@@ -47,5 +47,14 @@ body{
     color: white;
     text-align: left;
     line-height: 12px;
+    padding: 10px;
+}
 
+.buttons{
+    justify-content: space-between;
+}
+
+.flapjacks{
+    text-align: center;
+    color: red;
 }
