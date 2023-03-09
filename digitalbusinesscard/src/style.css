@@ -51,8 +51,7 @@ body{
 }
 
 .buttons{
-    justify-content: space-between;
-}
+margin-right: 15px;}
 
 .flapjacks{
     color: red;
