@@ -57,3 +57,13 @@ body{
 .flapjacks{
     color: red;
 }
+
+.icons{
+    padding: 8px;
+    margin: 25px;
+}
+
+.footer{
+    background-color: white;
+    margin-top: auto;
+}
