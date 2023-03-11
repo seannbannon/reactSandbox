@@ -17,3 +17,19 @@ nav {
 .airbnblogo{
   max-width: 100px;
 }
+
+.herodiv{
+  font-family:Poppins;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.herodiv h1{
+  font-size: 40px;
+}
+
+.photogrid{
+  max-width: 600px;
+  align-self: center;
+}
