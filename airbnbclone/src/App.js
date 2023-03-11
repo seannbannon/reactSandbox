@@ -1,7 +1,10 @@
 import React from "react"
+import Nav from "./components/Nav"
 
 export default function App() {
     return (
-        <h1>App component</h1>
+        <div>
+            <Nav />
+        </div>
     )
 }
