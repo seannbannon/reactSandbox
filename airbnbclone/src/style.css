@@ -12,5 +12,8 @@ nav {
   /* top/bottom 20 left/right 36 */
   padding: 20px 36px;
   box-shadow: 0px 3px 7.5px rgba(0,0,0,0.1);
+}
 
+.airbnblogo{
+  max-width: 100px;
 }
