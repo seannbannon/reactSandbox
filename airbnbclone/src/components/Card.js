@@ -4,6 +4,7 @@ export default function Card(){
     return(
         <div>
             <img className="katiez" alt="katiez" src={require("../images/katiezaferes.png")} />
+            <img className="star" alt="star" src={require("../images/star.png")} />
         </div>
     )
 }
