@@ -40,10 +40,17 @@ nav {
 }
 
 
+.pics{
+  position: relative;
+}
+
 .katiez{
   padding: 30px;
+
+
 }
 
 .star{
   width: 20px;
+  position: absolute;
 }
