@@ -10,6 +10,8 @@ export default function Card(){
                     <span>(6) • </span>
                     <span>USA</span>
                 </div>
+                <p>Life Lessons with Katie Zaferes</p>
+                <p>From $136 /person</p>
         </div>
     )
 }

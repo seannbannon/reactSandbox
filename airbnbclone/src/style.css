@@ -39,17 +39,21 @@ nav {
   align-self: center;
 }
 
-
-.pics{
-  position: relative;
+.card{
+  width: 175px;
+  font-size: 12px;
 }
 
-.katiez{
-  padding: 30px;
-
-
-}
+/* .katiez{
+width: 100%;
+border-radius: 9px;
+} */
 
 .star{
-  width: 20px;
+height: 14px;
+} 
+
+.cardstats{
+  display: flex;
+  align-items: center;
 }
