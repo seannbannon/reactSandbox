@@ -7,8 +7,8 @@ export default function Card(){
                 <div className="cardstats">
                     <img className="star" alt="star" src={require("../images/star.png")} />
                     <span>5.0</span>
-                    <span>(6) • </span>
-                    <span>USA</span>
+                    <span className="gray">(6) • </span>
+                    <span className="gray">USA</span>
                 </div>
                 <p>Life Lessons with Katie Zaferes</p>
                 <p>From $136 /person</p>
