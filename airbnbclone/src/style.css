@@ -19,6 +19,10 @@ nav {
   color: #918E9B;
 }
 
+.bold{
+  font-weight: bold;
+}
+
 .airbnblogo{
   max-width: 100px;
 }
