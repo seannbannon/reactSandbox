@@ -7,7 +7,7 @@ export default function App() {
         <div className="jokes">
           <Jokes 
             setup="What's black and white and red all over?"
-            punchine="A nun falling down the stairs!"
+            punchline="A nun falling down the stairs!"
           />
         </div>
     )
