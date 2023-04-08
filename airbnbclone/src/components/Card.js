@@ -3,7 +3,7 @@ import React from "react";
 export default function Card(props){
     return(
             <div className="card">
-                <img src={props.mainphoto} />
+                <img className ="katiez" src={require(`../images/${props.mainphoto}`)} />
                 <div className="cardstats">
                     <img className="star" alt="star" src={require("../images/star.png")} />
                     <span>{props.rating}</span>
