@@ -7,7 +7,11 @@ export default function Card(props){
                 <div className="cardstats">
                     <img src={props.star} />
                     <span>{props.rating}</span>
+                    <span className="gray">"({props.numberofratings})"</span>
+                    <span className="gray"></span>
                 </div>
+                <p>{props.title}</p>
+                <p><span className="bold">{props.price}</span></p>
             </div>
         // <div className="card">
         //         <img className="katiez" alt="katiez" src={require("../images/katiezaferes.png")} />
