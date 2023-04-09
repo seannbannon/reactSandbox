@@ -1,3 +1,4 @@
+//MAP CHALLENGES
 // Challenge 1:
 // Given an array of numbers, return an array of each number, squared
 
@@ -5,7 +6,19 @@ const nums = [1, 2, 3, 4, 5]
 // --> [1, 4, 9, 16, 25]
 
 const squared = nums.map(function(number) {
-    return item * item
+    return number * number
 })
 
 console.log(squared)
+
+//Challenge 2:
+//Given an array of strings, return an array where the first letter of each string is capitalized
+
+const names = ["alice", "bob", "charlie", "butkus"]
+// --> ["Alice", "Bob", "Charlie", "Butkus"]
+
+const capital = names.map((name) => {
+    return name[0].toUpperCase() + name.slice(1)
+})
+
+console.log(capital)
